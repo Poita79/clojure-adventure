@@ -4,7 +4,7 @@
   :url "http://example.com"
   :min-lein-version "2.0.0"
 
-  :aot  'clojure.adventure.main
+  :aot  [clojure.adventure.main]
   :main clojure.adventure.main
 
   :dependencies [[org.clojure/clojure "1.5.1"]
