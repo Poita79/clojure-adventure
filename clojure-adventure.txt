@@ -1,0 +1,17 @@
+1. Render player symbol
+2. Get player moving in all directions
+3. Player cannot go outside the screen
+4. Display walls
+5. Restrict player not to go through the walls
+6. Player can pick up items to inventory
+    - display item
+    - pick item
+    - display inventory
+7. Game is won when all items are picked
+8. Load the maze
+    - position items randomly
+    - position one item at the end of maze
+
+Resources:
+  Maze generator: http://www.delorie.com/game-room/mazes/genmaze.cgi
+
