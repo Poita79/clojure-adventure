@@ -6,4 +6,6 @@ You'll need:
 * Cursive Clojure - IntelliJ clojure plugin (http://cursiveclojure.com/userguide/)
 * Lein (https://github.com/technomancy/leiningen)
 
+To test the setup run
+lein repl 
 
