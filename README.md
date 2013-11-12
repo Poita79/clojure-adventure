@@ -7,5 +7,5 @@ You'll need:
 * Lein (https://github.com/technomancy/leiningen)
 
 To test the setup run
-lein repl 
+<code>lein repl </code>
 
